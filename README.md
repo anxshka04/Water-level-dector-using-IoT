@@ -16,7 +16,7 @@ Sr. No. | Name | Description| Quantity
 6 | Micro-USB to USB Cable | To connect the ESP32 module to the laptop | 1
 
 ## Circuit Diagram
-<![proj](https://user-images.githubusercontent.com/77496255/190310640-f260854e-97b1-4ee1-a7ec-307a8246e502.jpeg) width="800" height="600">
+![proj](https://user-images.githubusercontent.com/77496255/190310640-f260854e-97b1-4ee1-a7ec-307a8246e502.jpeg) 
 
 ## Video of the system:
 https://user-images.githubusercontent.com/77496255/190310776-dc6d5c4b-f4ce-40e7-9076-7a90ac0130b6.mp4
